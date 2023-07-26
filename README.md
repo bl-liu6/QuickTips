@@ -1,4 +1,4 @@
-# QuickTips App - Functional Specification
+# QuickTips IOS App - Functional Specification
 
 ## 1. Purpose
 The purpose of the QuickTips app is to provide a simple and intuitive tool to calculate tips. It targets general customers, especially those frequenting restaurants. The app will also allow users to split the bill, round up the total, and keep a record of past calculations.
